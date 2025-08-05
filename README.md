@@ -1,3 +1,3 @@
-# js-basics
+# js-fundamentals
 
 A beginner-friendly collection of JavaScript fundamentals with examples, exercises, and projects to learn core programming concepts.
